@@ -113,6 +113,8 @@ class EDGalaxyMap:
             # Close Galaxy map
             ap.keys.send('GalaxyMapOpen')
             return True
+        
+        sleep(5)
 
         # navigate to and select: search field
         ap.keys.send('UI_Up')

@@ -1,0 +1,4 @@
+11:17:55.944 INFO     Starting ED Autopilot V1.6.1.
+11:17:55.945 WARNING  EDAPGui.py read_config error :[Errno 2] No such file or directory: './configs/AP.json'
+11:17:55.949 WARNING  EDAPGui.py read_ship_configs error :[Errno 2] No such file or directory: './configs/ship_configs.json'
+11:17:55.954 ERROR    Elite Dangerous graphics display settings file does not exist: C:\Users\mcogerxt\AppData\Local\Frontier Developments\Elite Dangerous\Options\Graphics\DisplaySettings.xml.

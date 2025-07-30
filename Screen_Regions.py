@@ -90,7 +90,7 @@ class Screen_Regions:
         self.templates = templ
 
         # Define the thresholds for template matching to be consistent throughout the program
-        self.compass_match_thresh = 0.5
+        self.compass_match_thresh = 0.35
         self.navpoint_match_thresh = 0.8
         self.target_thresh = 0.54
         self.target_occluded_thresh = 0.55
